@@ -1,1 +1,2 @@
-print('ハロー')
+
+print('hello!')
